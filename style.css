@@ -8,8 +8,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
 
-@import url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmotivational-desktop-wallpaper-believe-in-yourself--1077556648313421113%2F&psig=AOvVaw35hdzqCpSVIUHgk634H-qq&ust=1755528805733000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDbzdCMko8DFQAAAAAdAAAAABAE');
-
 /*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
  2) font-family: 'Poppins', sans-serif;
  ----------------------------------------*****/
@@ -49,7 +47,7 @@ body {
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
-     background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmotivational-desktop-wallpaper-believe-in-yourself--1077556648313421113%2F&psig=AOvVaw35hdzqCpSVIUHgk634H-qq&ust=1755528805733000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDbzdCMko8DFQAAAAAdAAAAABAE');
+     background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmotivational-desktop-wallpaper-believe-in-yourself--1077556648313421113%2F&psig=AOvVaw35hdzqCpSVIUHgk634H-qq&ust=1755528805733000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDbzdCMko8DFQAAAAAdAAAAABAE');
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -1153,6 +1151,7 @@ h2:after {
   opacity: 1;
   transform: none;
 }
+
 
 
 
